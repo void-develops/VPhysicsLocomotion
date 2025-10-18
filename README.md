@@ -10,6 +10,6 @@ i recommend using 1000 spring and 150 damper, the settings it comes with. to use
 
 # Do Not Sell!
 
--# Note : there is no speed cap to how fast you can go and no arm length cap.
+Note : there is no speed cap to how fast you can go and no arm length cap.
 
--# Second Note : If there’s any bugs dm me @void1_dev them and i will try and fixing them. also when i post the github link i encourage you to make forks with your own settings!
+Second Note : If there’s any bugs dm me @void1_dev them and i will try and fixing them. also when i post the github link i encourage you to make forks with your own settings!
