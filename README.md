@@ -6,7 +6,7 @@ This is a physics rig completely made by **void!** made for fun and for others t
 
 # Recommended Physics Settings
 
-i recommend using 1000 spring and 150 damper, the settings it comes with. to use your own go to the left and right hand physics and change it to your liking!
+i recommend using 5000 spring and 150 damper, the settings it comes with. to use your own go to the left and right hand physics and change it to your liking!
 
 # Do Not Sell!
 
