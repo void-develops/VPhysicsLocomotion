@@ -18,7 +18,6 @@ Layer 7 : Right Hand
 Layer 27 : Climb
 Layer 28 : Grab
 # -----------------------------
+https://youtu.be/F3ShYcKh40s
 
-Note : there is no speed cap to how fast you can go and no arm length cap.
-
-Second Note : If there’s any bugs dm me @void1_dev them and i will try and fixing them. also when i post the github link i encourage you to make forks with your own settings!
+Note : If there’s any bugs dm me @void1_dev them and i will try and fixing them. also when i post the github link i encourage you to make forks with your own settings!
