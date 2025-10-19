@@ -10,6 +10,15 @@ i recommend using 5000 spring and 150 damper, the settings it comes with. to use
 
 # Do Not Sell!
 
+# IMPORTANT!!!
+so basically to save some time you need to set up the layers exactly how i did.
+Layer 3 : Player
+Layer 6 : Left Hand
+Layer 7 : Right Hand
+Layer 27 : Climb
+Layer 28 : Grab
+# -----------------------------
+
 Note : there is no speed cap to how fast you can go and no arm length cap.
 
 Second Note : If there’s any bugs dm me @void1_dev them and i will try and fixing them. also when i post the github link i encourage you to make forks with your own settings!
