@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/downloads/void-develops/VPhysicsLocomotion/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
   <a href="https://github.com/void-develops/VPhysicsLocomotion/releases/latest">
-    <img src="https://img.shields.io/github/v/release/void-developsVPhysicsLocomotion?label=Version&style=for-the-badge&color=red" alt="Version">
+    <img src="https://img.shields.io/github/v/release/void-develops/VPhysicsLocomotion?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
 
 # Disclaimer
