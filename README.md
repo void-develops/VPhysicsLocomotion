@@ -18,6 +18,7 @@ This is a physics rig completely made by **void!** made for fun and for others t
 
 # IMPORTANT!!!
 so basically to save some time you need to set up the layers exactly how i did.
+
 Layer 3 : VPR/Player
 
 Layer 6 : VPR/Left Hand
