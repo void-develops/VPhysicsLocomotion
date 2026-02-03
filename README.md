@@ -1,5 +1,3 @@
-<a href="https://discord.gg/XScrZcky48"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
-
 <p align="center">
   <a href="https://github.com/void-develops/VPhysicsLocomotion/releases/latest">
     <img src="https://img.shields.io/github/downloads/void-develops/VPhysicsLocomotion/total?label=Downloads&style=for-the-badge" alt="Downloads">
@@ -7,6 +5,7 @@
   <a href="https://github.com/void-develops/VPhysicsLocomotion/releases/latest">
     <img src="https://img.shields.io/github/v/release/void-develops/VPhysicsLocomotion?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
+  <a href="https://discord.gg/XScrZcky48"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
 
 # Disclaimer
 If you dont have easy inputs then you cant use this package!
