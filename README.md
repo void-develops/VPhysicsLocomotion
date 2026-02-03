@@ -14,19 +14,19 @@ If you dont have easy inputs then you cant use this package!
 
 This is a physics rig completely made by **void!** made for fun and for others to use and modify. I coded everything except for half of the grabbing script because xr inputs was set up wrong and i didn’t feel like setting it up so i got chatgpt to support the current state of the xr input system i had.
 
-# Recommended Physics Settings
-
-i recommend using 5000 spring and 150 damper, the settings it comes with. to use your own go to the left and right hand physics and change it to your liking!
-
 # Do Not Sell!
 
 # IMPORTANT!!!
 so basically to save some time you need to set up the layers exactly how i did.
-Layer 3 : Player
-Layer 6 : Left Hand
-Layer 7 : Right Hand
-Layer 27 : Climb
-Layer 28 : Grab
+Layer 3 : VPR/Player
+
+Layer 6 : VPR/Left Hand
+
+Layer 7 : VPR/Right Hand
+
+Layer 27 : VPR/Climb
+
+Layer 28 : VPR/Grab
 # -----------------------------
 https://youtu.be/F3ShYcKh40s
 
